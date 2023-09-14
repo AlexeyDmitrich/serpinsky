@@ -1,0 +1,15 @@
+/home/alexey/development/serpinsky/bin/Debug/net7.0/serpinsky
+/home/alexey/development/serpinsky/bin/Debug/net7.0/serpinsky.deps.json
+/home/alexey/development/serpinsky/bin/Debug/net7.0/serpinsky.runtimeconfig.json
+/home/alexey/development/serpinsky/bin/Debug/net7.0/serpinsky.dll
+/home/alexey/development/serpinsky/bin/Debug/net7.0/serpinsky.pdb
+/home/alexey/development/serpinsky/obj/Debug/net7.0/serpinsky.csproj.AssemblyReference.cache
+/home/alexey/development/serpinsky/obj/Debug/net7.0/serpinsky.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexey/development/serpinsky/obj/Debug/net7.0/serpinsky.AssemblyInfoInputs.cache
+/home/alexey/development/serpinsky/obj/Debug/net7.0/serpinsky.AssemblyInfo.cs
+/home/alexey/development/serpinsky/obj/Debug/net7.0/serpinsky.csproj.CoreCompileInputs.cache
+/home/alexey/development/serpinsky/obj/Debug/net7.0/serpinsky.dll
+/home/alexey/development/serpinsky/obj/Debug/net7.0/refint/serpinsky.dll
+/home/alexey/development/serpinsky/obj/Debug/net7.0/serpinsky.pdb
+/home/alexey/development/serpinsky/obj/Debug/net7.0/serpinsky.genruntimeconfig.cache
+/home/alexey/development/serpinsky/obj/Debug/net7.0/ref/serpinsky.dll
