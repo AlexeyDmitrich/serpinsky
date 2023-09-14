@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xSrwDiP7uVm04ZXpX77bVINcTG4CUai/w7sPl2x33i5biPDBfnjMYV4nr5stfH6lf0bi/zjMDMJV/8GP8RsXwA==",
+  "dgSpecHash": "Tz0IbcXtDzL8cZqGYCw8Z/BJ3up/14IsqljsY1D265KilQUE9cLNKi8Ews/Ik2+t4ge3NBNkmuJzLALKELc3dA==",
   "success": true,
-  "projectFilePath": "/home/alexey/development/serpinsky/serpinsky.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/run/media/devnull/1ebb323a-1179-462f-bb13-5e00e65210d3/home/alexey/development/serpinsky/serpinsky.csproj",
+  "expectedPackageFiles": [
+    "/home/devnull/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
   "logs": []
 }

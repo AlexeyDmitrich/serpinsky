@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = serpinsky
-build_property.ProjectDir = /home/alexey/development/serpinsky/
+build_property.ProjectDir = /run/media/devnull/1ebb323a-1179-462f-bb13-5e00e65210d3/home/alexey/development/serpinsky/
